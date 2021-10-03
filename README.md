@@ -1,7 +1,6 @@
 ## Recipe Box
 
-The Recipe Box app is an iOS app, utilizing Swift 4, XCode and Google Firebase as the database, that recommends recipes to the users according to the dish they want to prepare or can prepare using the ingredients they already possess. 
-This repository contains all the assets and scripts for the Recipe Box iOS app.
+The Recipe Recommending iOS application that allows users create meals based on ingredients they have at home.
 
 ## Ownership
 
